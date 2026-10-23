@@ -1,0 +1,55 @@
+# Python virtual environment
+
+.venv/
+venv/
+env/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+
+.env
+.env.*
+!.env.example
+
+# IDE and editor files
+
+.vscode/
+.idea/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+
+*.log
+tmp/
+temp/
+
+# Dataset images and generated splits
+
+dataset/raw/
+dataset/splits/
+
+# Alternative model checkpoints
+
+models/mobilenetv2_best.keras
+models/mobilenetv2_final.keras
+models/mobilenetv2_finetuned_final.keras
+
+# Python test and coverage cache
+
+.pytest_cache/
+.coverage
+htmlcov/

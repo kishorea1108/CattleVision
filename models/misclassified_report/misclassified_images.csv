@@ -1,0 +1,20 @@
+image_path,actual_breed,predicted_breed,predicted_confidence,actual_class_probability
+dataset\splits\test\Ayrshire cattle\Ayrshirecattle107.jpg,Ayrshire cattle,Jersey cattle,0.501459002494812,0.3030434846878052
+dataset\splits\test\Ayrshire cattle\Ayrshirecattle107_c.jpg,Ayrshire cattle,Red Dane cattle,0.34079596400260925,0.07949692010879517
+dataset\splits\test\Ayrshire cattle\Ayrshirecattle130.jpg,Ayrshire cattle,Brown Swiss cattle,0.7515169382095337,0.23137934505939484
+dataset\splits\test\Ayrshire cattle\Ayrshirecattle14_c.jpg,Ayrshire cattle,Holstein Friesian cattle,0.8925490379333496,0.10610467940568924
+dataset\splits\test\Ayrshire cattle\Ayrshirecattle53.jpg,Ayrshire cattle,Red Dane cattle,0.568721354007721,0.3789701759815216
+dataset\splits\test\Ayrshire cattle\Ayrshirecattle75.jpg,Ayrshire cattle,Brown Swiss cattle,0.41319653391838074,0.16916058957576752
+dataset\splits\test\Ayrshire cattle\Ayrshirecattle81_c.jpg,Ayrshire cattle,Red Dane cattle,0.6849108934402466,0.19786493480205536
+dataset\splits\test\Brown Swiss cattle\BrownSwisscattle112.jpg,Brown Swiss cattle,Holstein Friesian cattle,0.989860475063324,5.566600157180801e-05
+dataset\splits\test\Holstein Friesian cattle\HolsteinFriesiancattle132.jpg,Holstein Friesian cattle,Ayrshire cattle,0.4926835894584656,0.12539035081863403
+dataset\splits\test\Holstein Friesian cattle\HolsteinFriesiancattle57.jpg,Holstein Friesian cattle,Brown Swiss cattle,0.622214138507843,0.20114612579345703
+dataset\splits\test\Holstein Friesian cattle\HolsteinFriesiancattle82.jpg,Holstein Friesian cattle,Ayrshire cattle,0.7473308444023132,0.22409950196743011
+dataset\splits\test\Jersey cattle\Jerseycattle110.jpg,Jersey cattle,Brown Swiss cattle,0.5284043550491333,0.46846073865890503
+dataset\splits\test\Jersey cattle\Jerseycattle110_c.jpg,Jersey cattle,Brown Swiss cattle,0.5574911832809448,0.43966299295425415
+dataset\splits\test\Jersey cattle\Jerseycattle132_c.jpg,Jersey cattle,Ayrshire cattle,0.9751257300376892,0.0010560256196185946
+dataset\splits\test\Jersey cattle\Jerseycattle137_c.jpg,Jersey cattle,Red Dane cattle,0.5798187851905823,0.4117870330810547
+dataset\splits\test\Jersey cattle\Jerseycattle59.jpg,Jersey cattle,Brown Swiss cattle,0.7398267984390259,0.2489623874425888
+dataset\splits\test\Jersey cattle\Jerseycattle90_c.jpg,Jersey cattle,Holstein Friesian cattle,0.6878440976142883,0.12688566744327545
+dataset\splits\test\Red Dane cattle\RedDanecattle142.jpg,Red Dane cattle,Ayrshire cattle,0.7835501432418823,0.008935125544667244
+dataset\splits\test\Red Dane cattle\RedDanecattle54_c.jpg,Red Dane cattle,Jersey cattle,0.709656298160553,0.27847838401794434
