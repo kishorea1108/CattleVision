@@ -2,6 +2,7 @@ streamlit
 tensorflow
 ultralytics
 numpy
+opencv-python-headless
 pillow
 matplotlib
 scikit-learn

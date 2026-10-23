@@ -8,6 +8,8 @@ import numpy as np
 import streamlit as st
 import tensorflow as tf
 
+from src.cattle_detector import detect_cattle
+
 from PIL import Image, ImageOps, UnidentifiedImageError
 
 
